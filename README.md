@@ -1,6 +1,11 @@
 # JourniiX
 Journiix is a social media platform designed exclusively for travelers. It lets users share travel experiences, connect with fellow explorers, and discover new destinations. With smart features like an AI-powered trip planner, real-time chat, and a vibrant community, Journiix transforms how people plan, document, and relive their journeys.
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://via.placeholder.com/800x400.png?text=Click+to+watch+JOURNiiX+Demo)](https://github.com/dhruv-mishra/journiix/releases/download/v1.0/demo-video.mp4)
+
+
 🌍 JOURNiiX — Your Ultimate Travel Social Media Experience ✈️📸
 
 JOURNiiX is a full-featured social media platform crafted specifically for travelers, powered with AI-based trip planning, real-time chat, and everything you love in social media — but with a wanderlust twist 🌄
