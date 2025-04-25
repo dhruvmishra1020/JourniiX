@@ -4,9 +4,9 @@ Journiix is a social media platform designed exclusively for travelers. It lets 
 ## 🎥 Demo Video
 
 
+[
 
-
-https://github.com/user-attachments/assets/227fbae8-ad0a-44df-b207-dbb665ff8ee4
+https://github.com/user-attachments/assets/227fbae8-ad0a-44df-b207-dbb665ff8ee4](https://github.com/user-attachments/assets/b819e423-e138-4db4-80e0-ea20deb37d14)
 
 
 
