@@ -3,7 +3,7 @@ Journiix is a social media platform designed exclusively for travelers. It lets 
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://via.placeholder.com/800x400.png?text=Click+to+watch+JOURNiiX+Demo)](https://github.com/dhruv-mishra/journiix/releases/download/v1.0/demo-video.mp4)
+[![Watch the demo](https://via.placeholder.com/800x400.png?text=Click+to+watch+JOURNiiX+Demo)]([https://github.com/dhruv-mishra/journiix/releases/download/v1.0/demo-video.mp4](https://private-user-images.githubusercontent.com/114483177/437585875-2a48cb1c-4c3e-4cfb-b96e-9dfc558dce40.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU2MDk3ODksIm5iZiI6MTc0NTYwOTQ4OSwicGF0aCI6Ii8xMTQ0ODMxNzcvNDM3NTg1ODc1LTJhNDhjYjFjLTRjM2UtNGNmYi1iOTZlLTlkZmM1NThkY2U0MC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyNVQxOTMxMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNGMxMGMyM2QxMmZkNjAzOGE1N2ZiNzZiZjdjNWQxYjAwODgwMWVhMWI4MjZiZjMxYTZmYTRkMmZlOTVlNDU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3l65Z6r5-GmOa14W4VXW8hs1Tp2W1WRjejuk6Bxx1TY))
 
 
 🌍 JOURNiiX — Your Ultimate Travel Social Media Experience ✈️📸
