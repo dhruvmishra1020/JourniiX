@@ -3,14 +3,10 @@ Journiix is a social media platform designed exclusively for travelers. It lets 
 
 ## 🎥 Demo Video
 
-<p align="center">
-  <a href="[https://github.com/dhruv-mishra/journiix/releases/download/v1.0/video_2025-04-26_00-46-44 (1).mp4](https://github.com/user-attachments/assets/f445d36e-28d8-4ff7-9f92-96b5e8927beb)">
-    <b><font size="6">Watch Demo</font></b>
-  </a>
-</p>
 
 
 
+https://github.com/user-attachments/assets/227fbae8-ad0a-44df-b207-dbb665ff8ee4
 
 
 
