@@ -12,7 +12,7 @@ JOURNiiX is a full-featured social media platform crafted specifically for trave
 🧭 What is JOURNiiX?
 Imagine Instagram, TripAdvisor, and ChatGPT had a travel-savvy baby. That's JOURNiiX.
 
-JOURNiiX lets users:
+JourniiX lets users:
 
 Share their travel stories, itineraries, photos, and adventures
 
