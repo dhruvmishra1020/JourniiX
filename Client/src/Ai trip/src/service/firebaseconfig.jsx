@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCk3pLBQiXqx4--ho2_ahaZ7lZnEOfh2FA",
+  apiKey: "",
   authDomain: "ai-travel-planner-a7021.firebaseapp.com",
   projectId: "ai-travel-planner-a7021",
   storageBucket: "ai-travel-planner-a7021.appspot.com", // Corrected
   messagingSenderId: "727177344736",
-  appId: "1:727177344736:web:3bf3ab756570fdc469c285",
+  appId: "",
   measurementId: "G-JFZJ1LX2ZF"
 };
 
